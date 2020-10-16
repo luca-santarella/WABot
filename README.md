@@ -1,5 +1,5 @@
 # WABot
-A Whatsapp Bot that can be used for manage Whatsapp chats
+A Whatsapp Bot that can be used to manage Whatsapp chats
 
 It is composed of a Python class "WABot" that has methods that can be used to manage and possibly automate Whatsapp chats.
 Made using Selenium and the webdriver for Chrome which use Whatsapp Web.
